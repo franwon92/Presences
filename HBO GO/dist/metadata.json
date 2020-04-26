@@ -10,7 +10,8 @@
     "pt_BR": "HBO GO é o serviço de streaming da HBO que permite acesso ilimitado à HBO no seu computador, celular, tablet e outros dispositivos.",
     "fr": "HBO GO est un service de streaming de HBO qui permet un accès illimité à HBO sur votre ordinateur, votre téléphone portable, votre tablette et d’autres appareils.",
     "uk": "HBO GO - послуга стрімінгової передачі HBO, яка пропонує телевізійним провайдерам-учасникам, що надає вам необмежений доступ до HBO на вашому комп’ютері, мобільному телефоні, планшеті та інших пристроях.",
-    "nl": "HBO GO is de streamingdienst van HBO die deelnemende televisieproviders biedt die u onbeperkte toegang geeft tot HBO op uw computer, mobiel, tablet en andere apparaten."
+    "nl": "HBO GO is de streamingdienst van HBO die deelnemende televisieproviders biedt die u onbeperkte toegang geeft tot HBO op uw computer, mobiel, tablet en andere apparaten.",
+    "es_ES": "HBO GO es el servicio streaming de HBO que ofrece un proveedor de televisión participante que le brinca acceso ilimitado a HBO en su computadora, celular, tableta y otros dispositivos."
   },
   "url": [
     "hbogo.ro",
@@ -18,7 +19,8 @@
     "hbogo.com.br",
     "hbogo.pl",
     "hbogo.cz",
-    "hbogo.sk"
+    "hbogo.sk",
+    "hbogola.com"
   ],
   "version": "2.2.2",
   "logo": "https://i.imgur.com/TTHQtBH.png",
